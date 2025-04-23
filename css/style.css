@@ -356,7 +356,7 @@ body {
   flex: 1 1 45rem;
 }
 
-.about .row .about-img img {
+.about .row .about-img img { 
   width: 100%;
   -webkit-mask-image: url("../img/Menu/splash.svg");
   -webkit-mask-size: 50%;
